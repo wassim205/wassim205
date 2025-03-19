@@ -9,7 +9,7 @@
 - 🔭 Currently building [GameXpress](https://github.com/wassim205/GameXpress)
 - 🌱 Learning **React** and expanding my frontend skills
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, SQL, Tailwind, Laravel**
-- 🌍 Based in [Your Location]
+- 🌍 Based in Morroco
 - 🎮 Basketball enthusiast and avid gamer
 - 📫 Reach me at: [wassimelmorabit7@gmail.com](mailto:wassimelmorabit7@gmail.com)
 
