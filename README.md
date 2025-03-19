@@ -42,7 +42,14 @@
 
 ## 🔥 Featured Projects
 
-
+<div align="center">
+  <a href="https://github.com/wassim205/Urban-Odyssey">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim205&repo=Urban-Odyssey&theme=tokyonight" alt="Urban Odyssey" />
+  </a>
+  <a href="https://github.com/wassim205/DevelopeurReseauSocial">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim205&repo=DevelopeurReseauSocial&theme=tokyonight" alt="DevelopeurReseauSocial" />
+  </a>
+</div>
 
 ### Other Cool Projects
 - [Footbal Website](https://github.com/wassim205/Footbal-Website) - [Brief description]
