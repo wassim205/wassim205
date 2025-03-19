@@ -43,17 +43,45 @@
 ## 🔥 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/wassim205/Urban-Odyssey">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim205&repo=Urban-Odyssey&theme=tokyonight" alt="Urban Odyssey" />
-  </a>
-  <a href="https://github.com/wassim205/DevelopeurReseauSocial">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim205&repo=DevelopeurReseauSocial&theme=tokyonight" alt="DevelopeurReseauSocial" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Urban Odyssey</h3>
+        <p align="center">
+          <a href="https://github.com/wassim205/Urban-Odyssey" target="_blank">
+            <img src="https://dummyimage.com/600x300/000/fff&text=Urban+Odyssey" width="100%" alt="Urban Odyssey"/>
+          </a>
+          <p align="center">
+            I'm incredibly excited about this project and am working hard to bring it to life.
+            <br><br>
+            <a href="https://github.com/wassim205/Urban-Odyssey" target="_blank">
+              <img src="https://img.shields.io/badge/Code-1D2226?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+            </a>
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">DevelopeurReseauSocial</h3>
+        <p align="center">
+          <a href="https://github.com/wassim205/DevelopeurReseauSocial" target="_blank">
+            <img src="https://dummyimage.com/600x300/000/fff&text=Developer+Social+Network" width="100%" alt="DevelopeurReseauSocial"/>
+          </a>
+          <p align="center">
+            A social networking platform designed specifically for developers to connect and collaborate.
+            <br><br>
+            <a href="https://github.com/wassim205/DevelopeurReseauSocial" target="_blank">
+              <img src="https://img.shields.io/badge/Code-1D2226?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+            </a>
+          </p>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### Other Cool Projects
-- [Footbal Website](https://github.com/wassim205/Footbal-Website) - [Brief description]
-- [Gestion Bibliotheque](https://github.com/wassim205/Gestion-Bibliotheque) - [Brief description]
+- **[Footbal Website](https://github.com/wassim205/Footbal-Website)** - A dynamic website for football enthusiasts featuring stats, news, and fan interactions.
+- **[Gestion Bibliotheque](https://github.com/wassim205/Gestion-Bibliotheque)** - A comprehensive library management system with book tracking and user management.
 
 ## 🏆 GitHub Trophies
 <div align="center">
