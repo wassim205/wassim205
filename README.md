@@ -43,7 +43,7 @@
 ## 🔥 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/wassim205/Urban-Odyssey">
+  <a href="https://github.com/wassim205/Urban-Odyssey/tree/preprod">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim205&repo=Urban-Odyssey&theme=tokyonight" alt="Urban Odyssey" />
   </a>
   <a href="https://github.com/wassim205/DevelopeurReseauSocial">
