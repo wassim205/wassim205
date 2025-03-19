@@ -1,34 +1,69 @@
 # Hi there, I'm Wassim! 👋
 
-I'm a passionate developer who loves building innovative solutions and learning new technologies.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E96F7&width=435&lines=Passionate+Developer;Full-Stack+Web+Developer;Always+learning+new+technologies" alt="Typing SVG" />
+</div>
 
-## 🚀 About Me
-- 🔭 I’m currently working on [GameXpress](https://github.com/wassim205/GameXpress)
-- 🌱 I’m currently learning **React**
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, SQL (MySQL, PostgreSQL), Tailwind CSS, Git, Laravel**
-- 📫 How to reach me: [Email](mailto:wassimelmorabit7@gmail.com)
-- ⚡ Fun fact: I love basketball and gaming
+## 💫 About Me
 
-## 🛠️ Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5) 
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) 
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css) 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel) 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
+- 🔭 Currently building [GameXpress](https://github.com/wassim205/GameXpress)
+- 🌱 Learning **React** and expanding my frontend skills
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, SQL, Tailwind, Laravel**
+- 🌍 Based in [Your Location]
+- 🎮 Basketball enthusiast and avid gamer
+- 📫 Reach me at: [wassimelmorabit7@gmail.com](mailto:wassimelmorabit7@gmail.com)
 
-## 💼 Projects I Love
-1. [DevelopeurReseauSocial](https://github.com/wassim205/DevelopeurReseauSocial)
-2. [Footbal Website](https://github.com/wassim205/Footbal-Website)
-3. [Gestion Bibliotheque](https://github.com/wassim205/Gestion-Bibliotheque)
+<p align="center">
+  <a href="mailto:wassimelmorabit7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/wassim205"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-## 🌟 My Favorite Project
-### [Urban Odyssey](https://github.com/wassim205/Urban-Odyssey)
-I'm incredibly excited about this project and am working hard to bring it to life.
+## 🛠️ Tech Stack
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/wassim205)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wassim205&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim205&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+</div>
+
+## 🔥 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/wassim205/Urban-Odyssey">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim205&repo=Urban-Odyssey&theme=tokyonight" alt="Urban Odyssey" />
+  </a>
+  <a href="https://github.com/wassim205/DevelopeurReseauSocial">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim205&repo=DevelopeurReseauSocial&theme=tokyonight" alt="DevelopeurReseauSocial" />
+  </a>
+</div>
+
+### Other Cool Projects
+- [Footbal Website](https://github.com/wassim205/Footbal-Website) - [Brief description]
+- [Gestion Bibliotheque](https://github.com/wassim205/Gestion-Bibliotheque) - [Brief description]
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wassim205&theme=nord&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wassim205&color=blue" alt="Profile Views" />
+  <br>
+  <i>Happy coding!</i> 😊
+</div>
