@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-- 🔭 Currently building [GameXpress](https://github.com/wassim205/GameXpress)
+- 🔭 Currently building [URBAN ODYSSEY](https://github.com/wassim205/UrbanOdyssey)
 - 🌱 Learning **React** and expanding my frontend skills
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, SQL, Tailwind, Laravel**
 - 🌍 Based in Morroco
