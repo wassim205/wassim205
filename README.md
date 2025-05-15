@@ -8,7 +8,7 @@
 
 - 🔭 Currently building [URBAN ODYSSEY](https://github.com/wassim205/Urban-Odyssey)
 - 🌱 Learning **React** and expanding my frontend skills
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, SQL, Tailwind, Laravel**
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, SQL, Tailwind, Laravel, React.js**
 - 🌍 Based in Morroco
 - 🎮 Basketball enthusiast and avid gamer
 - 📫 Reach me at: [wassimelmorabit7@gmail.com](mailto:wassimelmorabit7@gmail.com)
