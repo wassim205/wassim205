@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-- 🔭 Currently building [URBAN ODYSSEY](https://github.com/wassim205/Urban-Odyssey)
+- 🔭 Currently building [JSQuizStarter](https://github.com/wassim205/JSQuizStarter)
 - 🌱 Learning **React** and expanding my frontend skills
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, SQL, Tailwind, Laravel, React.js**
 - 🌍 Based in Morroco
